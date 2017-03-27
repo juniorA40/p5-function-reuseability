@@ -31,7 +31,7 @@ function flower(x,y){
     
     //bulb
     fill(255,200,0);
-    ellipse(x,y,25,25);
+    ellipse(x,y,25,25); 
 }
 
 
